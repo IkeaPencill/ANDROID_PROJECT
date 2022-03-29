@@ -2,10 +2,7 @@
   "module": {
     "number": 1,
     "name": "Mathematics",
-    "questions": 30,
-    "revision": "2017-08-13"
-  },
-  "questions": [
+    "questions": [
     {
       "number": 1,
       "question": "Eighteen thousandths, written as a decimal, is:",
@@ -28,13 +25,13 @@
       "correct_answer": 4
     }
   ]
+ }
+    
+    
   "module": {
     "number": 2,
     "name": "Code de la route",
-    "questions": 30,
-    "revision": "2017-08-13"
-  },
-  "questions": [
+    "questions": [
     {
       "number": 1,
       "question": "La panneau stop sert a quoi ?",
@@ -57,4 +54,5 @@
       "correct_answer": 1
     }
   ]
+ }
 }
