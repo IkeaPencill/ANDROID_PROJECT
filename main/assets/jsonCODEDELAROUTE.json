@@ -1,4 +1,4 @@
-{
+[
     {
       "number": 1,
       "question": "La panneau stop sert a quoi ?",
@@ -20,4 +20,4 @@
       ],
       "correct_answer": 1
     }
-}
+]
