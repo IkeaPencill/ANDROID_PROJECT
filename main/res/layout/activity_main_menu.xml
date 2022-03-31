@@ -8,21 +8,11 @@
     android:gravity="center"
     tools:context=".MainMenu">
 
-    <TextView
+    <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Menu Principal"
-        android:id="@+id/TV_START"
-
-        android:padding="50px"
+        android:id="@+id/LV_themes"
         />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Commencer !"
-
-        android:id="@+id/BTN_start"
-        />
 
 </LinearLayout>
