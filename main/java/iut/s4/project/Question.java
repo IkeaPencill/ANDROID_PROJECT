@@ -20,5 +20,9 @@ public class Question {
 
     public String getQuestion() {return question;}
 
+    public String toString(){
+        return "Question :" + this.question + " / Reponse :"+ this.reponse;
+    }
+
 
 }

@@ -22,8 +22,8 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import iut.s4.project.MainActivity;
 import iut.s4.project.R;
+import iut.s4.project.MainActivity;
 
 public class MainMenu extends AppCompatActivity {
 
