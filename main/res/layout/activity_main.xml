@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainMenuActivity">
+
+    <ImageView
+        android:layout_width="1280px"
+        android:layout_height="1280px"
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+
+        android:background="@drawable/logo_kiquiz"
+        android:id="@+id/IV_START"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Commencer !"
+
+        android:id="@+id/BTN_start"
+        />
+
+</LinearLayout>
